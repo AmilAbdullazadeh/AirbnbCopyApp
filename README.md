@@ -1,4 +1,4 @@
-![Screenshot%20from%202019-12-27%2013-12-08.png]
+![airbnb.png]
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
